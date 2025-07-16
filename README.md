@@ -1,9 +1,5 @@
 # Project_UPSCALE
-The UPSCALE project focuses on developing a workflow for a 3D-printed chiral lattice metamaterial with rigid inclusions.
-
-# UPSCALE – Chiral Lattice Metamaterials with Rigid Inclusions
-
-This repository contains 3D models and supplementary files from the UPSCALE project, a 3-year research initiative focusing on the development of chiral lattice metamaterials with rigid inclusions. These structures are designed to exhibit unique mechanical properties, such as coupling between axial compression and rotational motion, enabled by the chiral arrangement of struts.
+This repository contains 3D models and supplementary files from the UPSCALE project, a 3-year research initiative focusing on the development of a workflow for a 3D-printed chiral lattice metamaterial with rigid inclusions.These structures are designed to exhibit unique mechanical properties, such as coupling between axial compression and rotational motion, enabled by the chiral arrangement of struts.
 
 ---
 
