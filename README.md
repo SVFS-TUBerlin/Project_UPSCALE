@@ -27,12 +27,6 @@ Future versions will include updated lattice designs and additional experimental
 
 ---
 
-%## Citation
-
-%If you use these files in your research, please cite:
-
----
-
 ## License
 
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
